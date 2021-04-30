@@ -20,3 +20,7 @@ Android Studio<br>
 
 ### Dataset Used
 [Flickr 8K Dataset](https://www.kaggle.com/adityajn105/flickr8k?select=Images)
+
+### App Video 
+[Youtube](https://www.youtube.com/watch?v=zKVVongFm9c)
+(Still Working on accuracy)
